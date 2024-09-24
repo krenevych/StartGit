@@ -2,6 +2,6 @@ print("hello")
 print("hello")
 print("hello")
 
-for i in range(4):
+for i in 1..<4:
 	print("hello")
 
